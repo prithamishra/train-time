@@ -1,0 +1,19 @@
+  .jumbotron {
+	  min-height: 50%;
+	  background-repeat: no-repeat;
+	  background-position: center;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	  color: white;
+  }
+  
+  h2 {
+	  color: white;
+	  padding: 5px;
+	  margin: 5px 400px 5px 400px;
+	  border-style: inset;
+	  border-width: 5px;
+	  border-radius: 30px;
+	  border-color: rgb(13, 72, 155);
+	  background-color: gray;
+  }
